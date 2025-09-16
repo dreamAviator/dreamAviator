@@ -1,12 +1,21 @@
-- 👋 Hi, I’m @dreamAviator
-- 👀 I’m interested in a lot of things, gaming, coding, science, electronic music, and more
-- 🌱 I’m currently learning kotlin and electronic music production
-- 💞️ I’m not looking to collaborate on anything right now, but if someone wants to I'm open
-- 📫 How to reach me: well can you dm someone here on github?
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: did you know all mammals pee for approximately the same time, no matter the size difference?
+### Hi there 👋, my name is Lilly
+#### I am a Python and Kotlin Dev
+![I am a Python and Kotlin Dev](https://i.postimg.cc/GpgrCTYh/smle-Overflow.png)
 
-<!---
-dreamAviator/dreamAviator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+*(The image is not mine. It is the Cover of the song ["Overflow" by smle and Helen Tess](https://youtu.be/YSD_vTf_fPc?si=dnwOg6Zl3qzAR11N). All copyright belongs to them)*
+
+I like to create apps and GUI Design. I do most of my stuff in Python, but I am learning Kotlin and I plan on publishing Android applications.
+
+Skills: Python / little bit of Kotlin
+
+- 🔭 I’m currently working on TkMusic 
+- 🌱 I’m currently learning Kotlin 
+- 👯 I’m looking to collaborate on not anything specific. But if you want to just ask :) 
+- 😄 Pronouns: she/her (they/them maybe) 
+- ⚡ Fun fact: did you know all mammals pee for approximately the same time, no matter their size? 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dreamAviator)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dreamAviator&show_icons=true)  
+
