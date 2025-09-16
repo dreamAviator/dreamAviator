@@ -19,3 +19,5 @@ Skills: Python / little bit of Kotlin
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dreamAviator&show_icons=true)  
 
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
