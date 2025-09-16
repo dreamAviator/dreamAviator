@@ -18,6 +18,3 @@ Skills: Python / little bit of Kotlin
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dreamAviator)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dreamAviator&show_icons=true)  
-
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
